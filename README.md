@@ -17,10 +17,5 @@ Finally, run the server
 
 The application will be running on http://127.0.0.1:8000
 
-## TODO
-- [ ] Add documentation
-- [ ] Improve UI
-- [ ] Speed up the Pytesseract OCR nutrition label reading
 
-## License
-MIT
+
